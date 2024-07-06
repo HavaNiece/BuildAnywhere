@@ -1,0 +1,7 @@
+{
+"requirements":[
+],
+"buildCostMultiplier": "0.7",
+"buildVisibility": "shown",
+"requiresCoreZone": "false"
+}
