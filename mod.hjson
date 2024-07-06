@@ -1,7 +1,10 @@
 name: buildanywhere-mod
 displayName: Build Anywhere
 author: HavaNiece
-description: Quality Of Life Mod
+description: "
+Quality of life mod.
+Allows you to place some blocks on liquids and over environment walls.
+"
 version: 1.0
 minGameVersion: 146
 hidden: true
