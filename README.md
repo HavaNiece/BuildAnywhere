@@ -1,4 +1,5 @@
 # BuildAnywhere
 
-Qol mod derived from
+Quality of life mod derived from
+
 HavaNiece/The-HavaNiece-Mod
